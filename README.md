@@ -1,3 +1,4 @@
+<img width="1122" height="705" alt="image" src="https://github.com/user-attachments/assets/319f4090-53ba-4706-9dc3-8b5995d43205" />
 # 🧰 1. Atualize o sistema
 
       sudo apt update && sudo apt upgrade -y
@@ -138,5 +139,10 @@ E cole o seguinte conteúdo:
     systemctl enable ambiente-grafico.service
     systemctl start ambiente-grafico.service
   Se tudo estiver certo, o ambiente gráfico virtual será iniciado automaticamente após o boot.
+
+  
+<img width="1384" height="925" alt="image" src="https://github.com/user-attachments/assets/db57aefe-5d1a-4601-87a0-18fcd8b538b5" />
+acess Moonlight
+
 
   
